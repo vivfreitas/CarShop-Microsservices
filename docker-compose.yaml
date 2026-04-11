@@ -1,0 +1,14 @@
+services:
+  db-costumer:
+    image: mysql:oraclelinux9
+    container_name: db-costumer
+    environment:
+      MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
+      MYSQL_DATABASE: patas
+    ports:
+      - "8060:3306"
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
