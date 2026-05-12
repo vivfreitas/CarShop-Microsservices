@@ -1,0 +1,1 @@
+A Entidade cuida da lógica que envolve o estado e as regras do cliente. Se a regra de negócio depende apenas das informações que o Customer já possui, ela deve estar dentro da entidade.

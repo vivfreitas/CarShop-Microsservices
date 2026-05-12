@@ -1,0 +1,1 @@
+Data Transfer Objects. These are the simple classes used to receive JSON from the frontend so you don't expose your internal database Entities directly.

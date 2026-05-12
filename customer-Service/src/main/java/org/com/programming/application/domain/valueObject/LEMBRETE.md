@@ -1,0 +1,1 @@
+O Value Object (VO) cuida da lógica intrínseca ao dado. Ele garante que o dado seja válido por si só, independente de quem o usa.

@@ -1,0 +1,1 @@
+configurations: Things like Bean settings or security configs.
