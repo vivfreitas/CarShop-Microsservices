@@ -1,1 +1,6 @@
-A Entidade cuida da lógica que envolve o estado e as regras do cliente. Se a regra de negócio depende apenas das informações que o Customer já possui, ela deve estar dentro da entidade.
+### Uma Entidade é um objeto do domínio que possui:
+
+- identidade própria;
+- continuidade ao longo do tempo;
+- representa um conceito do domínio;
+- possui regras de negócio protegidas por ela mesma;
