@@ -5,7 +5,6 @@ import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-import org.antlr.v4.runtime.misc.NotNull;
 import org.com.programming.application.domain.valueObject.Email;
 import java.util.UUID;
 

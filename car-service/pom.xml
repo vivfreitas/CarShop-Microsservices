@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.com.programming.application</groupId>
-        <artifactId>PetShop</artifactId>
+        <artifactId>CarsShop</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>customer-Service</artifactId>
+    <artifactId>car-Service</artifactId>
 
     <properties>
         <maven.compiler.source>24</maven.compiler.source>
