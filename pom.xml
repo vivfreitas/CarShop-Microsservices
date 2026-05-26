@@ -12,11 +12,11 @@
     </parent>
 
     <groupId>org.com.programming.application</groupId>
-    <artifactId>PetShop</artifactId>
+    <artifactId>CarsShop</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>customer-Service</module>
+        <module>car-service</module>
         <module>inventory-Service</module>
         <module>api-gateway</module>
         <module>discovery-service</module>
